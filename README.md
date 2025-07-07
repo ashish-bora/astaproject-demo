@@ -1,2 +1,4 @@
 # astaproject-demo
-This is my first Git Repositary
+This is my first Git Repository.
+Author - Ashish Bora.
+
